@@ -37,4 +37,3 @@ uamqp==1.2.7
 urllib3==1.25.9
 Werkzeug==1.0.1
 wrapt==1.12.1
-psycopg2-binary
