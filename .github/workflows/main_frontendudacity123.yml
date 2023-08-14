@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'frontendudacity123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F52FBD6C329411D996BFE589850F452 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB9F139F989941D09007F2EFF3CF4EF4 }}
